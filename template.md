@@ -1,11 +1,10 @@
 ---
-slug: 
-title: 
-working_group: 
-author:
-  - 
+slug: ""
+title:
+working_group:
+authors:
+  -
 status: draft
-created: 
-updated: 
+created:
+updated:
 ---
-
