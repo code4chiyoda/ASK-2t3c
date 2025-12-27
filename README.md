@@ -2,9 +2,6 @@
 
 code4chiyoda による情報提供と当事者による知見の募集を目的とした文書群です。
 
-- ASK: **A**sking **S**takeholders for **K**nowledge (当事者に知見を求める)
-- 2t3c: 千代田区の地方公共団体コード `131016` の Base36 表現
-
 ## 文書一覧
 
 | SLUG | ANCHOR                                                         | STATUS |
