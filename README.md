@@ -2,6 +2,8 @@
 
 Code for Chiyoda による情報提供と当事者による知見の募集を目的とした文書群です。
 
+コントリビュート方針は [0e99 Asking Stakeholders for Knowledge 2t3c 提案プロセス](0e99.md) をご覧ください。
+
 ## 文書一覧
 
 | Slug | Anchor                                                         | Tracking issue                                    | Status |
